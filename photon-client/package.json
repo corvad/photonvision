@@ -17,7 +17,7 @@
     "@fontsource/prompt": "^5.0.9",
     "@mdi/font": "^7.4.47",
     "@msgpack/msgpack": "^3.0.0-beta2",
-    "axios": "^1.6.3",
+    "axios": "^1.13.5",
     "jspdf": "^2.5.1",
     "pinia": "^2.1.4",
     "three": "^0.160.0",
